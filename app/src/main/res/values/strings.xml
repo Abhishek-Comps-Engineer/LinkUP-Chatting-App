@@ -3,4 +3,5 @@
     <string name="from">From</string>
     <string name="developer">ARS\n</string>
     <string name="developer_logo">Developer logo</string>
+    <string name="profile_picture">Profile Picture</string>
 </resources>
